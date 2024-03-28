@@ -1,2 +1,2 @@
 # InternshipTask2Stopwatch
-Prodigy InfoTech
+Intern at Prodigy InfoTech
